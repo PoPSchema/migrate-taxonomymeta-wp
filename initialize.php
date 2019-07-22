@@ -1,1 +1,2 @@
-<?php require_once 'migrate/pop-taxonomymeta-wp.php;'
+<?php 
+require_once 'migrate/pop-taxonomymeta-wp.php';
