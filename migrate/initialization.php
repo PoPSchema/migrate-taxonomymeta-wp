@@ -1,5 +1,5 @@
 <?php
-namespace PoP\TaxonomyMeta\WP;
+namespace PoPSchema\TaxonomyMeta\WP;
 
 class Initialization
 {

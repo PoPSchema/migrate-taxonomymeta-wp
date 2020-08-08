@@ -1,5 +1,5 @@
 <?php
-namespace PoP\TaxonomyMeta\WP;
+namespace PoPSchema\TaxonomyMeta\WP;
 use PoP\Translation\Facades\TranslationAPIFacade;
 use PoP\Hooks\Facades\HooksAPIFacade;
 

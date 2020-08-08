@@ -1,7 +1,7 @@
 <?php
-namespace PoP\TaxonomyMeta\WP;
+namespace PoPSchema\TaxonomyMeta\WP;
 
-class FunctionAPI extends \PoP\TaxonomyMeta\FunctionAPI_Base
+class FunctionAPI extends \PoPSchema\TaxonomyMeta\FunctionAPI_Base
 {
     public function getTermMeta($term_id, $key, $single = false)
     {
